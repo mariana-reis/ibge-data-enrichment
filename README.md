@@ -1,6 +1,6 @@
 # IBGE Data Enrichment
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-2.33-FF6F00?logo=python&logoColor=white)
 ![TheFuzz](https://img.shields.io/badge/TheFuzz-0.22-4CAF50?logo=python&logoColor=white)
 ![UV](https://img.shields.io/badge/uv-Package%20Manager-DE5FE9?logo=uv&logoColor=white)
@@ -110,7 +110,7 @@ Isso permite aceitar `Horzionte → Horizonte` (substituição em palavra longa)
 
 | Tecnologia         | Uso                                        |
 |--------------------|--------------------------------------------|
-| Python 3.12        | Tipagem nativa com union types e generics  |
+| Python 3.11        | Tipagem nativa com union types e generics  |
 | requests           | Chamadas HTTP (IBGE + submissão)           |
 | thefuzz            | Fuzzy matching baseado em Levenshtein      |
 | python-levenshtein | Backend C para performance no matching     |
